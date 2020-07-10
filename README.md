@@ -1,16 +1,23 @@
-### Hi there 👋
+### Namjun Kim (austinkim) 
 
-<!--
-**bunseokbot/bunseokbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ Languages
+* JAVA
+* Python
+* Go (beginner)
 
-Here are some ideas to get you started:
+### 🌱 Educations
+* Computer and Information Security at Sejong University (2015.03 - Current)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎱 Work Experiences
+* Research Engineer at Wellbia.com Co., Ltd (2019.03 - 2020.06)
+* Researcher at UpRoot, Inc. (2016.02 - 2019.02)
+
+### 😄 Side Projects & Jobs
+* Member of Sejong Security Group (S.S.G)
+
+### 📫 How to reach me
+* Website: https://namjun.kim
+* E-mail: austin.njkim@gmail.com
+* LinkedIn: https://linkedin.com/in/bunseokbot
+* GitHub: https://github.com/bunseokbot
+* Twitter: https://twitter.com/austinkim__
