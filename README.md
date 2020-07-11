@@ -1,8 +1,8 @@
 ### Namjun Kim (austinkim) 
 
 ### ⚡ Languages
-* JAVA
-* Python
+* Python (Intermediate)
+* JAVA (beginner)
 * Go (beginner)
 
 ### 🌱 Educations
@@ -20,4 +20,4 @@
 * E-mail: austin.njkim@gmail.com
 * LinkedIn: https://linkedin.com/in/bunseokbot
 * GitHub: https://github.com/bunseokbot
-* Twitter: https://twitter.com/austinkim__
+* Twitter: austinkim__
