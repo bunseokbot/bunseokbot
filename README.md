@@ -1,11 +1,12 @@
 ### Kim Namjun (austinkim)
 
-[![bunseokbot's github stats](https://github-readme-stats.vercel.app/api?username=bunseokbot&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ### ⚡ Languages
 * Python (Intermediate)
 * JAVA (beginner)
 * Go (beginner)
+
+### 🎆 Contribution dashboard
+[![bunseokbot's github stats](https://github-readme-stats.vercel.app/api?username=bunseokbot&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌱 Educations
 * Computer and Information Security at Sejong University (2015.03 - Current)
