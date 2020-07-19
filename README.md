@@ -1,4 +1,6 @@
-### Namjun Kim (austinkim) 
+### Kim Namjun (austinkim)
+
+[![bunseokbot's github stats](https://github-readme-stats.vercel.app/api?username=bunseokbot)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ⚡ Languages
 * Python (Intermediate)
