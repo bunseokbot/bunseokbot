@@ -5,7 +5,7 @@
 * JAVA (beginner)
 * Go (beginner)
 
-### 🎆 Contribution dashboard
+### 🎆 Contributions
 [![bunseokbot's github stats](https://github-readme-stats.vercel.app/api?username=bunseokbot&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌱 Educations
