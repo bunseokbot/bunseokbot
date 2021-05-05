@@ -3,7 +3,6 @@
 ### ⚡ Languages
 * Python (Intermediate)
 * Kotlin (beginner)
-* JAVA (beginner)
 * Go (beginner)
 
 ### 🎆 Contributions
