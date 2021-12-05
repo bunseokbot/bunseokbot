@@ -14,6 +14,7 @@
 * Computer and Information Security at Sejong University (2015.03 - Current)
 
 ### 🎱 Work Experiences
+* Security Engineer at NCSOFT (2021.11 - Current)
 * Research Engineer at Wellbia.com Co., Ltd (2019.03 - 2020.06)
 * Researcher at UpRoot, Inc. (2016.02 - 2019.02)
 
