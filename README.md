@@ -14,7 +14,7 @@
 [![bunseokbot's github stats](https://github-readme-stats.vercel.app/api?username=bunseokbot&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌱 Educations
-* Computer and Information Security at Sejong University (2015.03 - Current)
+* Computer and Information Security at Sejong University (2015.03 - 2022. 08)
 
 ### 🎱 Work Experiences
 * Security Engineer at NCSOFT (2021.11 - Current)
