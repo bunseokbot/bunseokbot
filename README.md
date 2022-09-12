@@ -10,13 +10,13 @@
 * Kotlin (beginner)
 * Go (beginner)
 
-### 🎆 Contributions
+### 🎆 Contribution
 [![bunseokbot's github stats](https://github-readme-stats.vercel.app/api?username=bunseokbot&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🌱 Educations
+### 🌱 Education
 * Computer and Information Security at Sejong University (2015.03 - 2022. 08)
 
-### 🎱 Work Experiences
+### 🎱 Work Experience
 * Security Engineer at NCSOFT (2021.11 - Current)
 * Research Engineer at Wellbia.com Co., Ltd (2019.03 - 2020.06)
 * Researcher at UpRoot, Inc. (2016.02 - 2019.02)
