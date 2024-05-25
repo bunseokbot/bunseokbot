@@ -6,9 +6,10 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=austinkim)](https://solved.ac/austinkim)
 
 ### ⚡ Languages
-* Python (Intermediate)
-* Kotlin (beginner)
-* Go (beginner)
+* Python
+* Java
+* Go
+* DART
 
 ### 🎆 Contribution
 [![bunseokbot's github stats](https://github-readme-stats.vercel.app/api?username=bunseokbot&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
