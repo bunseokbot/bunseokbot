@@ -7,11 +7,10 @@ Problem Solver @ Security
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=austinkim)](https://solved.ac/austinkim)
 
-### ⚡ Languages
-* Python
-* Java
-* Go
-* DART
+### ⚡ Skills
+* Programming (Python, Go, DART..)
+* DevSecOps
+* Threat Intelligence
 
 ### 🎆 Contribution
 [![bunseokbot's github stats](https://github-readme-stats.vercel.app/api?username=bunseokbot&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -33,4 +32,4 @@ Problem Solver @ Security
 * E-mail: austin.njkim@gmail.com
 * LinkedIn: https://linkedin.com/in/austinnkim
 * GitHub: https://github.com/bunseokbot
-* Twitter: austinkim__
+* X: austinkim__
